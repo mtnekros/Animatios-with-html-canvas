@@ -1,0 +1,12 @@
+.canvas-container {
+    display: flex;
+}
+
+canvas {
+    /* border: solid 1px grey; */
+    margin: 0;
+}
+
+body {
+    margin: 0;
+}
